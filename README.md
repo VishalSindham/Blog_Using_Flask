@@ -13,13 +13,13 @@
 #  Overview of the  application with UI screenshot.
 
 ###  Home Feed with all posts :
-     All user posts are shown with the recent one's on top 
+* All user posts are shown with the recent one's on top 
 
 ![404 Image Not Found](https://github.com/visins/Blog_Using_Flask/blob/master/overview_UI/feed_home.png)
 
 
 ###  Registration page : 
-    Basic input validation is used to check  if user is entering vaild mail_id , password  and matching confirm_password
+* Basic input validation is used to check  if user is entering vaild mail_id , password  and matching confirm_password
 
 ![404 Image Not Found](https://github.com/visins/Blog_Using_Flask/blob/master/overview_UI/register.png)
 
