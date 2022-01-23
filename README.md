@@ -1,6 +1,7 @@
 #  Basic Blog Application Built Using Flask 
    * This is a personal project which I have built to understand the inner working of web development.
-
+    
+[Click to explore blog, Yes me...!](https://vishal010101.pythonanywhere.com/)
 ## Features 
    * Password reset link is sent to registered mail.
 	 CRUD operation on basic blogs 
